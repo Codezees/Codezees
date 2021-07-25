@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Codezees
-- 👀 I’m interested in learning new coding stuff.
+- 👀 I’m interested in learning new stuff.
 - 🌱 I’m currently learning python.
 
 <!---
